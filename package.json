@@ -1,0 +1,22 @@
+{
+  "name": "js-create-css",
+  "version": "1.0.0",
+  "description": "js create css",
+  "main": "index.js",
+  "scripts": {
+    "test": "jarek"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarynek/js-create-css.git"
+  },
+  "keywords": [
+    "jarek"
+  ],
+  "author": "Jarek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarynek/js-create-css/issues"
+  },
+  "homepage": "https://github.com/jarynek/js-create-css#readme"
+}
